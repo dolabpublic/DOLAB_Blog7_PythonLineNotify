@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "/Users/sorawit/Documents/python_env/py3-env/bin/python",
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.pylintArgs": [
+        "--disable=C0111",
+        "--disable=C0301",
+        "--disable=C0303",
+        "--disable=W0611",
+        "--disable=C0410",
+        "--disable=C0411"
+    ],
+    
+}
