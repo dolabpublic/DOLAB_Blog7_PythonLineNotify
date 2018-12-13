@@ -2,7 +2,7 @@ import requests, json
 import urllib.parse
 import sys
 
-LINE_ACCESS_TOKEN = "Da0vwyPWrIdcwvATdCm452SU3I4hu8tjX2NrDEJ0cND"
+LINE_ACCESS_TOKEN = "MBGQR2l2mnSN7bjCeUgKobqS6AC9WMx4Ka3LuZcaCJ4"
 URL_LINE = "https://notify-api.line.me/api/notify" 
 
 def line_text(message):	
