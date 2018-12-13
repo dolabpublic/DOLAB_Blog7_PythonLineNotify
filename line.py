@@ -27,6 +27,6 @@ if __name__ == "__main__":
         line_text(sys.argv[1])
     else:
         # <Linux> 
-        # python line.py "Hello DOLAB" "/Users/sorawit/Documents/github/py_line_notify/logo.png"
+        # python line.py "Hello DOLAB" "./logo-dolab.png"
         line_pic(sys.argv[1], sys.argv[2])
     
