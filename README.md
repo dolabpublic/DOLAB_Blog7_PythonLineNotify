@@ -1,6 +1,5 @@
-# DOLAB_Blog7_PythonLineNotify
+# LINE Notify with python
 ============================
-LINE Notify with python
 
 Author and Contributor
 ---------
