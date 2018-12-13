@@ -1,5 +1,4 @@
 # LINE Notify with python
-============================
 
 Author and Contributor
 ---------
